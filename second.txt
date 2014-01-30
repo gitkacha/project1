@@ -1,1 +1,4 @@
 This is the second file committed by gitpaka
+About to introduce merge conflict
+see what happens
+gitpaka rules
