@@ -3,3 +3,5 @@ The file is about to be added to a blank GIT repository.
 
 The line above has been intentionally kept blank just to
 make provision for a merge conflict and see it's resolution.
+
+Few new lines added
